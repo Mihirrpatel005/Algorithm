@@ -6,7 +6,7 @@ public class String_word_reverse {
 
 	public static void main(String[] args) {
 
-		String s = "I am a JavaDeveloper";
+		String s = "I am a JavaDeveloper mihir";
 		String s_rev = "";
 		String reverse;
 		StringTokenizer st = new StringTokenizer(s, " ");
