@@ -1,7 +1,5 @@
 package com.algo.test;
 
-import java.util.Arrays;
-
 public class Missing_number {
 
 	public static void main(String[] args) {
