@@ -7,7 +7,7 @@ public class Listnum_Repeat {
 	public static void main(String[] args) {
 
 		int a[] = { 1, 2, 3, 5, 8 };
-		int b[] = { 2, 2, 5, 4, 5, 3, 4, 8, 1 };
+		int b[] = { 2, 2, 5, 4, 5, 3, 4, 8, 1, 7, 5, 2, 3, 5 };
 
 		HashMap<Integer, Integer> hm = new HashMap<>();
 
